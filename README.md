@@ -1,1 +1,1 @@
-trabalho desenvolvido para criar paginas falando sobre mim e passando meus contatos;
+trabalho desenvolvido para criar paginas falando sobre mim e passando meus contatos.
